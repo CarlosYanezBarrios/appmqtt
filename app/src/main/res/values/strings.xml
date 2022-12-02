@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">appmqtt</string>
+    <string name="app_con_mqtt">APP CON MQTT</string>
+    <string name="enviar_datos">enviar datos</string>
+</resources>
